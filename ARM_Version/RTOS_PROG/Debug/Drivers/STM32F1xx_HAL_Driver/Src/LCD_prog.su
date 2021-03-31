@@ -1,0 +1,8 @@
+LCD_prog.c:15:6:_delay_ms	24	static,ignoring_inline_asm
+LCD_prog.c:27:6:LCD_vidInit	8	static
+LCD_prog.c:65:6:LCD_vidSendCmd	16	static
+LCD_prog.c:81:6:LCD_vidWriteChar	16	static
+LCD_prog.c:96:13:vidPutOnBus	24	static
+LCD_prog.c:121:6:LCD_vidClear	8	static
+LCD_prog.c:131:6:LCD_vidGotoXY	16	static
+LCD_prog.c:153:6:LCD_vidWriteString	24	static
